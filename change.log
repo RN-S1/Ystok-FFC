@@ -1,0 +1,4 @@
+2014-01-26 (0.1.001) INITIAL RELEASE
+
+2014-03-01 (0.1.002)
+     * UTF-8 is supported in full even on LispWorks 4.x.
