@@ -40,5 +40,5 @@ SBCL - Tested on version 1.0.55 on Windows.
 The distribution package contains both the ASDlite/ASDF-based yffc.asd and the LispWorks-based defsys.lisp system definition files.
 
 
-<i>Sources</i><br>
+<i>forked from</i><br>
 <i>[http://ystok.ru/](http://lisp.ystok.ru/yffc/)</i>
