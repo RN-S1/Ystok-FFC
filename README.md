@@ -33,11 +33,11 @@ Ystok-FFC does not pretend to cover all the foreign function interface features 
 Platforms
 ---------
 
-LispWorks - Tested in full on versions 4.4 and 6.1 for Windows.
-SBCL - Tested on version 1.0.55 on Windows.
+[LispWorks](http://www.lispworks.com/) - Tested in full on versions 4.4 and 6.1 for Windows.
+[BCL](http://www.sbcl.org/) - Tested on version 1.0.55 on Windows.
 
 
-The distribution package contains both the ASDlite/ASDF-based yffc.asd and the LispWorks-based defsys.lisp system definition files.
+The Ystok-FFC contains both the ASDlite/ASDF-based yffc.asd and the LispWorks-based defsys.lisp system definition files.
 
 
 <i>forked from</i><br>
