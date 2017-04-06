@@ -1,6 +1,6 @@
 # Ystok-FFC
 
-Foreign Function Compatibility layer
+<b><i>Foreign Function Compatibility layer</i></b>
 
 
 Ystok-FFC is a small portable Common Lisp library of wrapper functions and macros for the foreign function interface (FFI). The package provides a compatibility layer and allows the application code to call the native FFI functionality of various Common Lisp implementations in a uniform manner.
