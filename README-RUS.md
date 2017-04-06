@@ -1,6 +1,6 @@
 # Ystok-FFC
 
-Foreign Function Compatibility layer
+<b><i>Foreign Function Compatibility layer</i></b>
 
 
 Ystok-FFC — это небольшая библитека на языке Коммон Лисп для вызова внешних функций (foreign function interface, FFI). Под внешними подразумеваются функции, написанные на других языках программирования, обычно на С, откомпилированные и хранящиеся в виде динамически подключаемых библиотек (DLL).
