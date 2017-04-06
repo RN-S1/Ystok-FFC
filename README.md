@@ -37,7 +37,7 @@ Platforms
 * [SBCL](http://www.sbcl.org/) - Tested on version 1.0.55 on Windows.
 
 
-The Ystok-FFC contains both the ASDlite/ASDF-based yffc.asd and the LispWorks-based defsys.lisp system definition files.
+The Ystok-FFC contains both the ASDlite/[ASDF](https://common-lisp.net/project/asdf/)-based yffc.asd and the LispWorks-based defsys.lisp system definition files.
 
 
 <i>forked from</i><br>
