@@ -43,5 +43,5 @@ Cодержит файлы определения систем
 * yffc.asd для ASDlite/ASDF
 * defsys.lisp для the LispWorks.
 
-<i>Sources</i><br>
+<i>forked from</i><br>
 <i>[http://ystok.ru/](http://lisp.ystok.ru/ru/yffc.html)</i>
